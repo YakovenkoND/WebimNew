@@ -19,9 +19,9 @@
     margin-left: 10px;
     margin-bottom: 5px;
   }
-}
-@media (max-width:768px){
-
+  .main-title{
+    margin-top: 60px;
+  }
 }
 @media (max-width:600px){
   .social{
@@ -58,6 +58,9 @@
 @media (max-width:425px){
   .footer-col__2,.footer-col__3{
     display: none;
+  }
+  .main-title{
+    margin-top: 60px;
   }
   .list-html__item {
     margin-bottom: 25px;
